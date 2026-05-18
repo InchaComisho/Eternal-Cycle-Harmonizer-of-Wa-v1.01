@@ -349,7 +349,7 @@ while maintaining a visually coherent anime-style presentation.
 **Author:** Master (inchacomisho / inchacomusho)  
 
 **AI Collaborators:**  
-Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola AI)  
+G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola AI)  
 
 **License:** Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
