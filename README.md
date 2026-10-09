@@ -2,6 +2,8 @@
 **Complete Visual Design & Character Philosophy Proposal**  
 *A Civilization-Tuning Action RPG Based on Harmony, Circulation, and Dynamic World Evolution*
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
 ***
